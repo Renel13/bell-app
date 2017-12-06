@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "description": "BellApp",
-  "repository": "https://github.com/angular/angular-seed",
+  "repository": "https://github.com/Renel13/bell-app",
   "license": "MIT",
   "devDependencies": {
     "bower": "^1.7.7",
