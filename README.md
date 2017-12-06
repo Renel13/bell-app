@@ -7,14 +7,14 @@ To get you started you can simply clone the `bell-app` repository and install th
 
 ### Prerequisites
 
-You need git to clone the `angular-seed` repository. You can get git from [here][git].
+You need git to clone the `bell-app` repository. You can get git from [here][git].
 
-We also use a number of Node.js tools to initialize and test `bell-app`. You must have Node.js
+We also use a number of Node.js tools to initialize `bell-app`. You must have Node.js
 and its package manager (npm) installed. You can get them from [here][node].
 
 ### Clone `bell-app`
 
-Clone the `angular-seed` repository using git:
+Clone the `bell-app` repository using git:
 
 ```
 git clone https://github.com/Renel13/bell-app
@@ -43,7 +43,7 @@ two new folders in your project.
 * `app/bower_components` - contains the Angular framework files
 
 *Note that the `bower_components` folder would normally be installed in the root folder but
-`angular-seed` changes this location through the `.bowerrc` file. Putting it in the `app` folder
+`bell-app` changes this location through the `.bowerrc` file. Putting it in the `app` folder
 makes it easier to serve the files by a web server.*
 
 ### Run the Application
