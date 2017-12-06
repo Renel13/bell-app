@@ -1,0 +1,10 @@
+<table class="table table-striped">
+    <thead >
+    <th ng-repeat="column in vm.headers track by $index" ng-bind="column"></th>
+    </thead>
+    <tbody>
+    <tr ng-repeat="row in vm.statistics">
+        <td ng-repeat="cell in row track by $index" ng-bind="cell"></td>
+    </tr>
+    </tbody>
+</table>

@@ -1,0 +1,4 @@
+<h3>Goaltenders</h3>
+Search: <input type="text" name="search" ng-model="vm.search" ng-change="vm.searchFunction()">
+<span ng-bind="vm.statistics.length"></span> records
+<goaltenders-component headers="vm.headers" statistics="vm.statistics"></goaltenders-component>
